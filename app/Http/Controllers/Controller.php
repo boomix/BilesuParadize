@@ -11,7 +11,7 @@ use App\Models\CollageModel;
 class Controller extends BaseController
 {
     /**
-     * Undocumented function
+     * Get collange image
      *
      * @return Response
      */
